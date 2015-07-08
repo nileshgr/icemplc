@@ -1,0 +1,70 @@
+.modal-body table {
+	table-layout: fixed;
+	max-width: 600px;
+}
+
+.modal-body td {
+	word-wrap: break-word;
+}
+
+a[data-toggle="tab"] {
+	outline: 0 !important;
+}
+
+.form-company {
+	max-width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 65px;
+}
+
+#company-list-panel {
+	margin-top: 25px;
+}
+
+.modal .modal-body {
+	overflow-y: auto;
+}
+
+.submenu {
+	margin-left: 15px;
+}
+
+#main {	
+	margin-top: 50px;
+	margin-left: 100px;		
+	width: 75%;	
+}
+
+ul.nav li.dropdown:hover ul.dropdown-menu { display: block; }
+
+#sidebar {
+	background-color: #222222;
+	width: 15%;
+	height: 360px;				
+}
+
+#sidebar a {
+	color: #ffffff;
+	border-radius: 0;
+}
+
+#sidebar a:hover {
+	background-color: #428BCA;
+}
+
+.menu-title-link {
+	font-weight: bold;
+	border-bottom: 1px solid #428BCA;
+	margin-bottom: 5px;
+}
+
+.null-link:hover {
+	background: none !important;
+}
+
+#mainnav {
+	margin-top: 10px;
+	background-color: #222222;
+}

@@ -1,0 +1,43 @@
+#form-signin {
+	width: 275px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 65px;
+	margin-bottom: 50px;
+}
+
+body {
+	background-color: #EDF3EB;
+	margin-bottom: 40px;
+	min-height: 768px !important;
+	min-width: 1280px !important;
+}
+
+.pg-body {
+	background-color: #ffffff;
+	margin-top: 20px;
+}
+
+.form-title {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.form-student {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 65px;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0px;		
+ 	left: -1px;
+	margin-left: auto;
+	margin-right: auto;	
+	width: 100%;
+	text-align: center;
+	overflow-x: hidden;
+}
